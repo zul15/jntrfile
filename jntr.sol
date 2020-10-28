@@ -278,7 +278,7 @@ library SafeMath {
  * the owner.
  */
 contract Ownable is Context {
-  address companyWallet = 0xFC795202b6Ca8b12Bc4816F690a87BcDb98326E2;
+  address companyWallet = 0x2d8b167Edbc57A7bC431546D45f451a6DDa853B6;
   address private _owner;
 
   event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
